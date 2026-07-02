@@ -131,7 +131,7 @@ Each script can also be run independently — see the header comments in each fi
 If you use this pipeline, please cite both the software and the manuscript:
 
 **Software:**
-> Rjaibi D, Romdhane L, Souiai O. (2026). *Metatranscriptomic COVID-19 Tunisia: Pipeline for SARS-CoV-2, Host, and Microbiome Analysis* (v1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+> Rjaibi D, Souiai O., Romdhane L (2026). *Metatranscriptomic COVID-19 Tunisia: Pipeline for SARS-CoV-2, Host, and Microbiome Analysis* (v1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.21128187
 
 **Manuscript:**
 > Rjaibi D et al .2026  Uncovering COVID-19 Dynamics in Tunisian Patients: A Meta-Transcriptomic Approach. *Scientific Reports* (submitted).
