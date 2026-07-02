@@ -1,0 +1,46 @@
+# Sequencing data / large files — never commit raw data
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bam.bai
+*.sam
+*.vcf.gz
+
+# Reference genomes / databases (download separately, see README)
+references/
+*.fasta.fai
+*.fasta.bwt
+*.fasta.pac
+*.fasta.ann
+*.fasta.amb
+*.fasta.sa
+
+# Results directories
+results/
+04_deg/
+06_microbiome/
+
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Conda / env
+*.egg-info/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
