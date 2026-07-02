@@ -1,12 +1,11 @@
 # Uncovering COVID-19 Dynamics in Tunisian Patients: A Meta-Transcriptomic Approach
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21128187.svg)](https://doi.org/10.5281/zenodo.21128187)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Reproducible bioinformatics pipeline accompanying the manuscript *"Uncovering COVID-19 Dynamics in Tunisian Patients: A Meta-Transcriptomic Approach"* (submitted to *Scientific Reports*).
 
-> **Authors:** Dorra Rjaibi, Lilia Romdhane, Oussama Souiai — Institut Pasteur de Tunis
-
+> **Authors:** Dorra Rjaibi, Oussama Souiai, Lilia Romdhane — Institut Pasteur de Tunis
 
 This repository contains the scripts used to process paired-end metatranscriptomic sequencing data from nasopharyngeal swabs of Tunisian COVID-19 patients (severe, moderate, and RT-PCR-negative controls) for three parallel analyses:
 
