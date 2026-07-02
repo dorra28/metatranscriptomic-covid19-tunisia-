@@ -7,7 +7,6 @@ Reproducible bioinformatics pipeline accompanying the manuscript *"Uncovering CO
 
 > **Authors:** Dorra Rjaibi, Lilia Romdhane, Oussama Souiai — Institut Pasteur de Tunis
 
-*(Replace `zenodo.XXXXXXX` in the badge above with your actual Zenodo record number once it's minted — see "Archiving on Zenodo" below.)*
 
 This repository contains the scripts used to process paired-end metatranscriptomic sequencing data from nasopharyngeal swabs of Tunisian COVID-19 patients (severe, moderate, and RT-PCR-negative controls) for three parallel analyses:
 
@@ -136,18 +135,8 @@ If you use this pipeline, please cite both the software and the manuscript:
 > Rjaibi D, Romdhane L, Souiai O. (2026). *Metatranscriptomic COVID-19 Tunisia: Pipeline for SARS-CoV-2, Host, and Microbiome Analysis* (v1.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
 
 **Manuscript:**
-> Rjaibi D, Romdhane L, Souiai O. Uncovering COVID-19 Dynamics in Tunisian Patients: A Meta-Transcriptomic Approach. *Scientific Reports* (submitted).
+> Rjaibi D et al .2026  Uncovering COVID-19 Dynamics in Tunisian Patients: A Meta-Transcriptomic Approach. *Scientific Reports* (submitted).
 
-A machine-readable [`CITATION.cff`](CITATION.cff) file is included, so GitHub will automatically show a "Cite this repository" button, and Zenodo will pull author metadata from it when the archive is created.
-
-## Archiving on Zenodo
-
-To mint a permanent DOI for a specific release of this repository:
-
-1. Go to [zenodo.org](https://zenodo.org) and log in with your GitHub account (Sign in → GitHub).
-2. Go to your Zenodo **GitHub settings** page (account menu → GitHub) and toggle **ON** the switch next to this repository.
-3. Back on GitHub, create a **Release** (see publishing steps below) — this triggers Zenodo to automatically archive that release and mint a DOI.
-4. Once minted, copy the DOI badge Zenodo gives you and paste it into the top of this README, replacing the placeholder `zenodo.XXXXXXX`.
 
 ## Ethics statement
 
